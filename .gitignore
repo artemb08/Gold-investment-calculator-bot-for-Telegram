@@ -1,0 +1,8 @@
+.env
+trash.env
+*.env
+__pycache__/
+*.pyc
+.gold_plans_telega/
+*.csv
+.DS_Store
